@@ -1,0 +1,15 @@
+Tuoi,Thu_nhap,Sinh_vien,Tinh_dung,Mua_may_tinh
+tre,cao,no,kha,no
+tre,cao,no,tot,no
+trung,cao,no,kha,yes
+cao,trung,no,kha,yes
+cao,thap,yes,kha,yes
+cao,thap,yes,tot,no
+trung,thap,yes,tot,yes
+tre,trung,no,kha,no
+tre,thap,yes,kha,yes
+cao,trung,yes,kha,yes
+tre,trung,yes,tot,yes
+trung,trung,no,tot,yes
+trung,cao,yes,kha,yes
+cao,trung,no,tot,no
